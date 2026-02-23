@@ -1,6 +1,6 @@
 {
   "latest_version": "2.1",
-  "minimum_required_version": "2.1",
+  "minimum_required_version": "2.0",
   "download_url": "https://github.com/husain29440-cpu/danp-collections-updates/releases/latest/download/DANPSetup_v2.1.exe",
   "force_update": false,
   "changes": [
@@ -9,6 +9,7 @@
     "Performance optimization"
   ]
 }
+
 
 
 
