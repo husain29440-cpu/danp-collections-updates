@@ -1,15 +1,14 @@
 {
-  "latest_version": "2.3",
+  "latest_version": "2.2",
   "minimum_required_version": "2.0",
-  "download_url": "https://github.com/husain29440-cpu/danp-collections-updates/releases/latest/download/DANPSetup_v2.1.exe",
+  "download_url": "https://github.com/husain29440-cpu/danp-collections-updates/releases/download/v2.2/Danp_Setup_2.2.exe",
   "force_update": false,
   "changes": [
-    "Improved multi-user stability",
-    "Added manual refresh button",
-    "Performance optimization"
+    "Installer support",
+    "Auto update system",
+    "Secure AppData storage"
   ]
 }
-
 
 
 
