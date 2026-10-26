@@ -4,9 +4,10 @@
   "download_url": "https://github.com/husain29440-cpu/danp-collections-updates/releases/download/v2.1/DueKeeper_Setup.exe",
   "force_update": false,
   "changes": [
-    "Installer support",
-    "Auto update system",
-    "Secure AppData storage"
+    "Improved Vendor Ledger report and summary cards",
+    "Improved report layout and footer visibility",
+    "Updated application icon",
+    "General usability improvements"
   ]
 }
 
