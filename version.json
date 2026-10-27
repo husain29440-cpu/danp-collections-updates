@@ -1,12 +1,12 @@
 {
-  "latest_version": "2.2",
+  "latest_version": "2.3",
   "minimum_required_version": "2.0",
-  "download_url": "https://drive.google.com/file/d/1ElK2PulMYRYhz_ECUIFs3-a33yu3XsXa/view?usp=drive_link",
+  "download_url": "https://drive.google.com/file/d/1mE0dEMYKT5ET8lxKVIfcfP_ED9CAbPqd/view?usp=drive_link",
   "force_update": false,
   "changes": [
-    "Improved Vendor Ledger report and summary cards",
-    "Improved report layout and footer visibility",
-    "Updated application icon",
+    "Introduce Sidebar",
+    "Every Window is Now open in Software",
+    "New Design For Vendor and Bills Section",
     "General usability improvements"
   ]
 }
