@@ -1,12 +1,19 @@
 {
-  "latest_version": "2.4",
+  "latest_version": "2.5",
   "minimum_required_version": "2.0",
-  "download_url": "https://drive.google.com/file/d/1QTPCitI2tgA4IpREhJQoc7yDIHC5TjQY/view?usp=drive_link",
+  "download_url": "https://drive.google.com/file/d/1HSL-TjzepR9j6zOPxVM1tqhyOQo1ZtN3/view?usp=drive_link",
   "force_update": false,
   "changes": [
-    "Bug Fixed"
+    "New Collection Trend chart showing recorded payments over the last 6 months",
+    "New WhatsApp Messages chart showing reminders sent this month",
+    "New Calls Completed chart showing daily call activity",
+    "Added Collection Summary shortcut to the sidebar",
+    "Improved dashboard chart styling and readability",
+    "Improved sidebar layout and navigation",
+    "Bug fixes and UI improvements"
   ]
 }
+
 
 
 
