@@ -1,12 +1,14 @@
 {
-  "latest_version": "2.6",
+  "latest_version": "2.7",
   "minimum_required_version": "2.0",
-  "download_url": "https://drive.google.com/file/d/1CWRJXC_maZxExcBTsHVxtmcV5Nr3Hy89/view?usp=drive_link",
+  "download_url": "https://drive.google.com/file/d/15xFNxZpr5LGNCX-VVvvb11ipe7RaNyJ2/view?usp=drive_link",
   "force_update": false,
   "changes": [
-    "Improved dashboard chart styling and readability",
-    "Improved sidebar layout and navigation",
-    "Bug fixes and UI improvements"
+    "Attach Invoice PDF: Attach a PDF copy when adding a new bill",
+    "View Invoice PDF: Open the attached invoice PDF directly from the Bills section",
+    "Download Invoice PDF: Save a copy of an attached invoice PDF to your preferred location",
+    "Replace Invoice PDF: Easily replace an existing invoice attachment when editing a bill",
+    "Organized Invoice Storage: Keep invoice PDF copies organized in the Invoice Copies folder"
   ]
 }
 
