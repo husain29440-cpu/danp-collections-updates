@@ -1,7 +1,7 @@
 {
   "latest_version": "2.7",
   "minimum_required_version": "2.0",
-  "download_url": "https://drive.google.com/file/d/15xFNxZpr5LGNCX-VVvvb11ipe7RaNyJ2/view?usp=drive_link",
+  "download_url": "https://drive.google.com/file/d/1cVa7AQEupPRcjOOVSIYLZIntIXeQgJOM/view?usp=drive_link",
   "force_update": false,
   "changes": [
     "Attach Invoice PDF: Attach a PDF copy when adding a new bill",
