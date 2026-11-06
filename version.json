@@ -1,12 +1,13 @@
 {
-  "latest_version": "2.8",
+  "latest_version": "2.9",
   "minimum_required_version": "2.0",
-  "download_url": "https://drive.google.com/file/d/1uZ8igmLRrca1QQyRS3kW8kymydVBWY49/view?usp=drive_link",
+  "download_url": "https://drive.google.com/file/d/1ypjab-is_41B9x-HQ_dQ0GIXzefjqXWC/view?usp=drive_link",
   "force_update": false,
   "changes": [
     "New Enhanced SideBar",
     "Bulk Payment Entry Enabled",
-    "Improve Overall UI"
+    "Improve Overall UI",
+    "Notification Setting Updated"
   ]
 }
 
